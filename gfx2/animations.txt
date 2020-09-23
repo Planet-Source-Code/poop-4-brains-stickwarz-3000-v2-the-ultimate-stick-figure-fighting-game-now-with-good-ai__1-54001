@@ -1,0 +1,13 @@
+StickGuy Animations
+Row - Animation
+1 - Walk Right
+2 - Walk Left
+3 - Fire PooGun Right
+4 - Fire PooGun Left
+5 - Walk PooGun Right
+6 - Walk PooGun Left
+7 - Jump
+8 - Fall
+9 - Stand
+10 - Stand PooGun
+11 - Impatient 1
