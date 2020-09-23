@@ -1,0 +1,5 @@
+Hello, this is just to give some people credit, the majority of the sounds i got from Flashkit.com excluding some like success.wav. The midi for the menu screen came from a fellow called Dung Truong, Email: Greendragon25@yahoo.com, Website: http://www.gmegamix.cjb.net. Some of the code like the directsound class, which is credited in the comments in that class, and the function to get the short filenames are not mine.
+-poop4brains
+Email: kevinmf89@hotmail.com
+Website: http://kevgames.hostkingdom.net/ - has some of my other games
+
